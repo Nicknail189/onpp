@@ -20,9 +20,6 @@
           <amount />
         </div>
         <div>
-          <investment />
-        </div>
-        <div>
           <transactions />
         </div>
       </div>

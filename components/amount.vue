@@ -2,7 +2,7 @@
   <div class="container w-full bg-[#006F9E] flex flex-col p-10">
     <div class="grid grid-cols-1 sm:grid-cols-2">
       <div>
-        <p>Main account</p>
+        <p>(CFE) Core-Financial Exchange</p>
         <br />
         <h2 class="text-[20px] text-[#333]">Savings Account</h2>
       </div>

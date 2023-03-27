@@ -25,12 +25,6 @@
         placeholder="*********"
         class="custom-input bg-black/50 backdrop-blur-md"
       />
-      <div class="text-[11px]">
-        Don't have an account with us -
-        <NuxtLink to="/signUpPage">
-          <span class="underline">Go back to sign up</span>
-        </NuxtLink>
-      </div>
       <br />
       <button class="login-btn" @click="submitBtn">continue</button>
     </form>
