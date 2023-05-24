@@ -42,7 +42,8 @@ export default ({
        } 
     },
     methods: {
-      submitBtn(){
+      submitBtn(event){
+      event.preventDefault()
         if (this.login.email.toLowerCase().trim() === 'brettwcox76@gmail.com' && this.login.password.trim() === 'Brettcox122') {
           this.$router.push("/dashboard")
         } else {
